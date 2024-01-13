@@ -9,6 +9,8 @@ package factorymethod
 
 fun main() {
     val developerFactory = FactoryService.createDeveloperFactoryBySpeciality("kotlin")
+
     val developer = developerFactory.createDeveloper()
+
     developer.writeCode()
 }
