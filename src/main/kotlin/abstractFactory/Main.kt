@@ -1,4 +1,4 @@
-package abstractfactory
+package abstractFactory
 
 /**
  * Паттерн "Абстрактная фабрика" (Abstract Factory) предоставляет интерфейс

@@ -1,6 +1,6 @@
-package abstractfactory.mobileproject
+package abstractFactory.mobileProject
 
-import abstractfactory.Tester
+import abstractFactory.Tester
 
 class MobileTester : Tester {
     override fun testCode() {

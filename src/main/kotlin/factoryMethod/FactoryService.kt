@@ -1,4 +1,4 @@
-package factorymethod
+package factoryMethod
 
 import java.lang.RuntimeException
 

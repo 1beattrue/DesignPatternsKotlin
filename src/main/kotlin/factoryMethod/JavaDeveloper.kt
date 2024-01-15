@@ -1,4 +1,4 @@
-package factorymethod
+package factoryMethod
 
 class JavaDeveloper : Developer {
     override fun writeCode() {

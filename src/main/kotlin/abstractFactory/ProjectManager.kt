@@ -1,4 +1,4 @@
-package abstractfactory
+package abstractFactory
 
 interface ProjectManager {
     fun manageProject()

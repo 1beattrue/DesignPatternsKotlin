@@ -1,6 +1,6 @@
-package abstractfactory.mobileproject
+package abstractFactory.mobileProject
 
-import abstractfactory.Developer
+import abstractFactory.Developer
 
 class MobileDeveloper : Developer {
     override fun writeCode() {

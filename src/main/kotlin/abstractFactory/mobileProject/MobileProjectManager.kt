@@ -1,6 +1,6 @@
-package abstractfactory.mobileproject
+package abstractFactory.mobileProject
 
-import abstractfactory.ProjectManager
+import abstractFactory.ProjectManager
 
 class MobileProjectManager : ProjectManager {
     override fun manageProject() {

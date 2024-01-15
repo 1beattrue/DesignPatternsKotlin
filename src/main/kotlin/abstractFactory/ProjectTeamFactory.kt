@@ -1,4 +1,4 @@
-package abstractfactory
+package abstractFactory
 
 interface ProjectTeamFactory { // абстрактная фабрика
     fun getDeveloper(): Developer

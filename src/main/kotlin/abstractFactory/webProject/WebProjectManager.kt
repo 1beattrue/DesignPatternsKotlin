@@ -1,6 +1,6 @@
-package abstractfactory.webproject
+package abstractFactory.webProject
 
-import abstractfactory.ProjectManager
+import abstractFactory.ProjectManager
 
 class WebProjectManager : ProjectManager {
     override fun manageProject() {

@@ -1,4 +1,4 @@
-package factorymethod
+package abstractFactory
 
 interface Developer {
     fun writeCode()

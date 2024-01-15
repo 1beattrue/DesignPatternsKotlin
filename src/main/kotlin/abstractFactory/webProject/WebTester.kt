@@ -1,6 +1,6 @@
-package abstractfactory.webproject
+package abstractFactory.webProject
 
-import abstractfactory.Tester
+import abstractFactory.Tester
 
 class WebTester : Tester {
     override fun testCode() {

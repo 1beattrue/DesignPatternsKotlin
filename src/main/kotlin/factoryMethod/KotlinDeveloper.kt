@@ -1,4 +1,4 @@
-package factorymethod
+package factoryMethod
 
 class KotlinDeveloper : Developer {
     override fun writeCode() {

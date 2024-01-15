@@ -1,4 +1,4 @@
-package factorymethod
+package factoryMethod
 
 /**
  * Фабричный метод (Factory Method) - это паттерн,

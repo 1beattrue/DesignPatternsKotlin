@@ -1,6 +1,6 @@
-package abstractfactory.webproject
+package abstractFactory.webProject
 
-import abstractfactory.Developer
+import abstractFactory.Developer
 
 class WebDeveloper : Developer {
     override fun writeCode() {

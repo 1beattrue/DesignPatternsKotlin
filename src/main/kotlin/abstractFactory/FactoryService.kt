@@ -1,7 +1,7 @@
-package abstractfactory
+package abstractFactory
 
-import abstractfactory.mobileproject.MobileTeamFactory
-import abstractfactory.webproject.WebTeamFactory
+import abstractFactory.mobileProject.MobileTeamFactory
+import abstractFactory.webProject.WebTeamFactory
 import java.lang.RuntimeException
 
 class FactoryService {

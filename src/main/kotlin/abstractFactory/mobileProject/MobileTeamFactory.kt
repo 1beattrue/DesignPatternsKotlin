@@ -1,9 +1,9 @@
-package abstractfactory.mobileproject
+package abstractFactory.mobileProject
 
-import abstractfactory.Developer
-import abstractfactory.ProjectManager
-import abstractfactory.ProjectTeamFactory
-import abstractfactory.Tester
+import abstractFactory.Developer
+import abstractFactory.ProjectManager
+import abstractFactory.ProjectTeamFactory
+import abstractFactory.Tester
 
 class MobileTeamFactory : ProjectTeamFactory {
     override fun getDeveloper(): Developer {
